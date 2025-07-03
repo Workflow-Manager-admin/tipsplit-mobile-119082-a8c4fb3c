@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/tipsplit-mobile-119082-a8c4fb3c/tip_calculator_frontend
+flutter analyze
+
